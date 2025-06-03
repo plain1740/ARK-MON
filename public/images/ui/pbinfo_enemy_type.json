@@ -1,0 +1,603 @@
+{
+  "textures": [
+    {
+      "image": "pbinfo_enemy_type.png",
+      "format": "RGBA8888",
+      "size": {
+        "w": 100,
+        "h": 3360
+      },
+      "scale": 1,
+      "frames": [
+        {
+          "filename": "unknown",
+          "rotated": false,
+          "trimmed": false,
+          "sourceSize": {
+            "w": 100,
+            "h": 120
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 100,
+            "h": 120
+          },
+          "frame": {
+            "x": 0,
+            "y": 0,
+            "w": 100,
+            "h": 120
+          }
+        },
+        {
+          "filename": "sword",
+          "rotated": false,
+          "trimmed": false,
+          "sourceSize": {
+            "w": 100,
+            "h": 120
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 100,
+            "h": 120
+          },
+          "frame": {
+            "x": 0,
+            "y": 120,
+            "w": 100,
+            "h": 120
+          }
+        },
+        {
+          "filename": "lance",
+          "rotated": false,
+          "trimmed": false,
+          "sourceSize": {
+            "w": 100,
+            "h": 120
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 100,
+            "h": 120
+          },
+          "frame": {
+            "x": 0,
+            "y": 240,
+            "w": 100,
+            "h": 120
+          }
+        },
+        {
+          "filename": "dagger",
+          "rotated": false,
+          "trimmed": false,
+          "sourceSize": {
+            "w": 100,
+            "h": 120
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 100,
+            "h": 120
+          },
+          "frame": {
+            "x": 0,
+            "y": 360,
+            "w": 100,
+            "h": 120
+          }
+        },
+        {
+          "filename": "fist",
+          "rotated": false,
+          "trimmed": false,
+          "sourceSize": {
+            "w": 100,
+            "h": 120
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 100,
+            "h": 120
+          },
+          "frame": {
+            "x": 0,
+            "y": 480,
+            "w": 100,
+            "h": 120
+          }
+        },
+        {
+          "filename": "whip",
+          "rotated": false,
+          "trimmed": false,
+          "sourceSize": {
+            "w": 100,
+            "h": 120
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 100,
+            "h": 120
+          },
+          "frame": {
+            "x": 0,
+            "y": 600,
+            "w": 100,
+            "h": 120
+          }
+        },
+        {
+          "filename": "axe",
+          "rotated": false,
+          "trimmed": false,
+          "sourceSize": {
+            "w": 100,
+            "h": 120
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 100,
+            "h": 120
+          },
+          "frame": {
+            "x": 0,
+            "y": 720,
+            "w": 100,
+            "h": 120
+          }
+        },
+        {
+          "filename": "hammer",
+          "rotated": false,
+          "trimmed": false,
+          "sourceSize": {
+            "w": 100,
+            "h": 120
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 100,
+            "h": 120
+          },
+          "frame": {
+            "x": 0,
+            "y": 840,
+            "w": 100,
+            "h": 120
+          }
+        },
+        {
+          "filename": "chainsaw",
+          "rotated": false,
+          "trimmed": false,
+          "sourceSize": {
+            "w": 100,
+            "h": 120
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 100,
+            "h": 120
+          },
+          "frame": {
+            "x": 0,
+            "y": 960,
+            "w": 100,
+            "h": 120
+          }
+        },
+        {
+          "filename": "scythe",
+          "rotated": false,
+          "trimmed": false,
+          "sourceSize": {
+            "w": 100,
+            "h": 120
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 100,
+            "h": 120
+          },
+          "frame": {
+            "x": 0,
+            "y": 1080,
+            "w": 100,
+            "h": 120
+          }
+        },
+        {
+          "filename": "bow",
+          "rotated": false,
+          "trimmed": false,
+          "sourceSize": {
+            "w": 100,
+            "h": 120
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 100,
+            "h": 120
+          },
+          "frame": {
+            "x": 0,
+            "y": 1200,
+            "w": 100,
+            "h": 120
+          }
+        },
+        {
+          "filename": "crossbow",
+          "rotated": false,
+          "trimmed": false,
+          "sourceSize": {
+            "w": 100,
+            "h": 120
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 100,
+            "h": 120
+          },
+          "frame": {
+            "x": 0,
+            "y": 1320,
+            "w": 100,
+            "h": 120
+          }
+        },
+        {
+          "filename": "shotgun",
+          "rotated": false,
+          "trimmed": false,
+          "sourceSize": {
+            "w": 100,
+            "h": 120
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 100,
+            "h": 120
+          },
+          "frame": {
+            "x": 0,
+            "y": 1440,
+            "w": 100,
+            "h": 120
+          }
+        },
+        {
+          "filename": "cannon",
+          "rotated": false,
+          "trimmed": false,
+          "sourceSize": {
+            "w": 100,
+            "h": 120
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 100,
+            "h": 120
+          },
+          "frame": {
+            "x": 0,
+            "y": 1560,
+            "w": 100,
+            "h": 120
+          }
+        },
+        {
+          "filename": "musket",
+          "rotated": false,
+          "trimmed": false,
+          "sourceSize": {
+            "w": 100,
+            "h": 120
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 100,
+            "h": 120
+          },
+          "frame": {
+            "x": 0,
+            "y": 1680,
+            "w": 100,
+            "h": 120
+          }
+        },
+        {
+          "filename": "boomerang",
+          "rotated": false,
+          "trimmed": false,
+          "sourceSize": {
+            "w": 100,
+            "h": 120
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 100,
+            "h": 120
+          },
+          "frame": {
+            "x": 0,
+            "y": 1800,
+            "w": 100,
+            "h": 120
+          }
+        },
+        {
+          "filename": "shield",
+          "rotated": false,
+          "trimmed": false,
+          "sourceSize": {
+            "w": 100,
+            "h": 120
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 100,
+            "h": 120
+          },
+          "frame": {
+            "x": 0,
+            "y": 1920,
+            "w": 100,
+            "h": 120
+          }
+        },
+        {
+          "filename": "a_fire",
+          "rotated": false,
+          "trimmed": false,
+          "sourceSize": {
+            "w": 100,
+            "h": 120
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 100,
+            "h": 120
+          },
+          "frame": {
+            "x": 0,
+            "y": 2040,
+            "w": 100,
+            "h": 120
+          }
+        },
+        {
+          "filename": "a_water",
+          "rotated": false,
+          "trimmed": false,
+          "sourceSize": {
+            "w": 100,
+            "h": 120
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 100,
+            "h": 120
+          },
+          "frame": {
+            "x": 0,
+            "y": 2160,
+            "w": 100,
+            "h": 120
+          }
+        },
+        {
+          "filename": "a_lightning",
+          "rotated": false,
+          "trimmed": false,
+          "sourceSize": {
+            "w": 100,
+            "h": 120
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 100,
+            "h": 120
+          },
+          "frame": {
+            "x": 0,
+            "y": 2280,
+            "w": 100,
+            "h": 120
+          }
+        },
+        {
+          "filename": "a_wind",
+          "rotated": false,
+          "trimmed": false,
+          "sourceSize": {
+            "w": 100,
+            "h": 120
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 100,
+            "h": 120
+          },
+          "frame": {
+            "x": 0,
+            "y": 2400,
+            "w": 100,
+            "h": 120
+          }
+        },
+        {
+          "filename": "a_dark",
+          "rotated": false,
+          "trimmed": false,
+          "sourceSize": {
+            "w": 100,
+            "h": 120
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 100,
+            "h": 120
+          },
+          "frame": {
+            "x": 0,
+            "y": 2520,
+            "w": 100,
+            "h": 120
+          }
+        },
+        {
+          "filename": "a_ice",
+          "rotated": false,
+          "trimmed": false,
+          "sourceSize": {
+            "w": 100,
+            "h": 120
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 100,
+            "h": 120
+          },
+          "frame": {
+            "x": 0,
+            "y": 2640,
+            "w": 100,
+            "h": 120
+          }
+        },
+        {
+          "filename": "a_poison",
+          "rotated": false,
+          "trimmed": false,
+          "sourceSize": {
+            "w": 100,
+            "h": 120
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 100,
+            "h": 120
+          },
+          "frame": {
+            "x": 0,
+            "y": 2760,
+            "w": 100,
+            "h": 120
+          }
+        },
+        {
+          "filename": "a_explosion",
+          "rotated": false,
+          "trimmed": false,
+          "sourceSize": {
+            "w": 100,
+            "h": 120
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 100,
+            "h": 120
+          },
+          "frame": {
+            "x": 0,
+            "y": 2880,
+            "w": 100,
+            "h": 120
+          }
+        },
+        {
+          "filename": "a_healing",
+          "rotated": false,
+          "trimmed": false,
+          "sourceSize": {
+            "w": 100,
+            "h": 120
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 100,
+            "h": 120
+          },
+          "frame": {
+            "x": 0,
+            "y": 3000,
+            "w": 100,
+            "h": 120
+          }
+        },
+        {
+          "filename": "a_frozen",
+          "rotated": false,
+          "trimmed": false,
+          "sourceSize": {
+            "w": 100,
+            "h": 120
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 100,
+            "h": 120
+          },
+          "frame": {
+            "x": 0,
+            "y": 3120,
+            "w": 100,
+            "h": 120
+          }
+        },
+        {
+          "filename": "a_neutralize",
+          "rotated": false,
+          "trimmed": false,
+          "sourceSize": {
+            "w": 100,
+            "h": 120
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 100,
+            "h": 120
+          },
+          "frame": {
+            "x": 0,
+            "y": 3240,
+            "w": 100,
+            "h": 120
+          }
+        }
+      ]
+    }
+  ]
+}

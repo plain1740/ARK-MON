@@ -1,0 +1,162 @@
+{
+    "textures": [
+        {
+            "image": "rival_f.png",
+            "format": "RGBA8888",
+            "size": {
+                "w": 512,
+                "h": 512
+            },
+            "scale": 1.0,
+            "frames": [
+                {
+                    "filename": "angry",
+                    "rotated": false,
+                    "trimmed": false,
+                    "sourceSize": {
+                        "w": 146,
+                        "h": 135
+                    },
+                    "spriteSourceSize": {
+                        "x": 0,
+                        "y": 0,
+                        "w": 146,
+                        "h": 135
+                    },
+                    "frame": {
+                        "x": 2,
+                        "y": 2,
+                        "w": 146,
+                        "h": 135
+                    }
+                },
+                {
+                    "filename": "happy",
+                    "rotated": false,
+                    "trimmed": false,
+                    "sourceSize": {
+                        "w": 146,
+                        "h": 135
+                    },
+                    "spriteSourceSize": {
+                        "x": 0,
+                        "y": 0,
+                        "w": 146,
+                        "h": 135
+                    },
+                    "frame": {
+                        "x": 150,
+                        "y": 2,
+                        "w": 146,
+                        "h": 135
+                    }
+                },
+                {
+                    "filename": "normal",
+                    "rotated": false,
+                    "trimmed": false,
+                    "sourceSize": {
+                        "w": 146,
+                        "h": 135
+                    },
+                    "spriteSourceSize": {
+                        "x": 0,
+                        "y": 0,
+                        "w": 146,
+                        "h": 135
+                    },
+                    "frame": {
+                        "x": 298,
+                        "y": 2,
+                        "w": 146,
+                        "h": 135
+                    }
+                },
+                {
+                    "filename": "normal1",
+                    "rotated": false,
+                    "trimmed": false,
+                    "sourceSize": {
+                        "w": 146,
+                        "h": 135
+                    },
+                    "spriteSourceSize": {
+                        "x": 0,
+                        "y": 0,
+                        "w": 146,
+                        "h": 135
+                    },
+                    "frame": {
+                        "x": 298,
+                        "y": 139,
+                        "w": 146,
+                        "h": 135
+                    }
+                },
+                {
+                    "filename": "nu1",
+                    "rotated": false,
+                    "trimmed": false,
+                    "sourceSize": {
+                        "w": 146,
+                        "h": 135
+                    },
+                    "spriteSourceSize": {
+                        "x": 0,
+                        "y": 0,
+                        "w": 146,
+                        "h": 135
+                    },
+                    "frame": {
+                        "x": 2,
+                        "y": 276,
+                        "w": 146,
+                        "h": 135
+                    }
+                },
+                {
+                    "filename": "nu2",
+                    "rotated": false,
+                    "trimmed": false,
+                    "sourceSize": {
+                        "w": 146,
+                        "h": 135
+                    },
+                    "spriteSourceSize": {
+                        "x": 0,
+                        "y": 0,
+                        "w": 146,
+                        "h": 135
+                    },
+                    "frame": {
+                        "x": 2,
+                        "y": 139,
+                        "w": 146,
+                        "h": 135
+                    }
+                },
+                {
+                    "filename": "sad",
+                    "rotated": false,
+                    "trimmed": false,
+                    "sourceSize": {
+                        "w": 146,
+                        "h": 135
+                    },
+                    "spriteSourceSize": {
+                        "x": 0,
+                        "y": 0,
+                        "w": 146,
+                        "h": 135
+                    },
+                    "frame": {
+                        "x": 150,
+                        "y": 139,
+                        "w": 146,
+                        "h": 135
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,314 @@
+{
+  "textures": [
+    {
+      "image": "115.png",
+      "format": "RGBA8888",
+      "size": {
+        "w": 3675,
+        "h": 1022
+      },
+      "scale": 1,
+      "frames": [
+        {
+          "filename": "0013.png",
+          "rotated": false,
+          "trimmed": true,
+          "sourceSize": {
+            "w": 900,
+            "h": 900
+          },
+          "spriteSourceSize": {
+            "x": 328,
+            "y": 212,
+            "w": 228,
+            "h": 441
+          },
+          "frame": {
+            "x": 1,
+            "y": 1,
+            "w": 228,
+            "h": 441
+          }
+        },
+        {
+          "filename": "0007.png",
+          "rotated": false,
+          "trimmed": true,
+          "sourceSize": {
+            "w": 900,
+            "h": 900
+          },
+          "spriteSourceSize": {
+            "x": 310,
+            "y": 282,
+            "w": 358,
+            "h": 372
+          },
+          "frame": {
+            "x": 1,
+            "y": 644,
+            "w": 358,
+            "h": 372
+          }
+        },
+        {
+          "filename": "0012.png",
+          "rotated": false,
+          "trimmed": true,
+          "sourceSize": {
+            "w": 900,
+            "h": 900
+          },
+          "spriteSourceSize": {
+            "x": 323,
+            "y": 214,
+            "w": 233,
+            "h": 439
+          },
+          "frame": {
+            "x": 431,
+            "y": 1,
+            "w": 233,
+            "h": 439
+          }
+        },
+        {
+          "filename": "0004.png",
+          "rotated": false,
+          "trimmed": true,
+          "sourceSize": {
+            "w": 900,
+            "h": 900
+          },
+          "spriteSourceSize": {
+            "x": 310,
+            "y": 282,
+            "w": 367,
+            "h": 371
+          },
+          "frame": {
+            "x": 561,
+            "y": 642,
+            "w": 367,
+            "h": 371
+          }
+        },
+        {
+          "filename": "0001.png",
+          "rotated": false,
+          "trimmed": true,
+          "sourceSize": {
+            "w": 900,
+            "h": 900
+          },
+          "spriteSourceSize": {
+            "x": 363,
+            "y": 188,
+            "w": 320,
+            "h": 435
+          },
+          "frame": {
+            "x": 866,
+            "y": 1,
+            "w": 320,
+            "h": 435
+          }
+        },
+        {
+          "filename": "0006.png",
+          "rotated": false,
+          "trimmed": true,
+          "sourceSize": {
+            "w": 900,
+            "h": 900
+          },
+          "spriteSourceSize": {
+            "x": 310,
+            "y": 298,
+            "w": 357,
+            "h": 357
+          },
+          "frame": {
+            "x": 1130,
+            "y": 638,
+            "w": 357,
+            "h": 357
+          }
+        },
+        {
+          "filename": "0002.png",
+          "rotated": false,
+          "trimmed": true,
+          "sourceSize": {
+            "w": 900,
+            "h": 900
+          },
+          "spriteSourceSize": {
+            "x": 351,
+            "y": 221,
+            "w": 344,
+            "h": 432
+          },
+          "frame": {
+            "x": 1388,
+            "y": 1,
+            "w": 344,
+            "h": 432
+          }
+        },
+        {
+          "filename": "0005.png",
+          "rotated": false,
+          "trimmed": true,
+          "sourceSize": {
+            "w": 900,
+            "h": 900
+          },
+          "spriteSourceSize": {
+            "x": 310,
+            "y": 303,
+            "w": 357,
+            "h": 355
+          },
+          "frame": {
+            "x": 1689,
+            "y": 635,
+            "w": 357,
+            "h": 355
+          }
+        },
+        {
+          "filename": "0011.png",
+          "rotated": false,
+          "trimmed": true,
+          "sourceSize": {
+            "w": 900,
+            "h": 900
+          },
+          "spriteSourceSize": {
+            "x": 318,
+            "y": 221,
+            "w": 238,
+            "h": 432
+          },
+          "frame": {
+            "x": 1934,
+            "y": 1,
+            "w": 238,
+            "h": 432
+          }
+        },
+        {
+          "filename": "0000.png",
+          "rotated": false,
+          "trimmed": true,
+          "sourceSize": {
+            "w": 900,
+            "h": 900
+          },
+          "spriteSourceSize": {
+            "x": 355,
+            "y": 0,
+            "w": 308,
+            "h": 334
+          },
+          "frame": {
+            "x": 2248,
+            "y": 635,
+            "w": 308,
+            "h": 334
+          }
+        },
+        {
+          "filename": "0010.png",
+          "rotated": false,
+          "trimmed": true,
+          "sourceSize": {
+            "w": 900,
+            "h": 900
+          },
+          "spriteSourceSize": {
+            "x": 316,
+            "y": 238,
+            "w": 254,
+            "h": 415
+          },
+          "frame": {
+            "x": 2374,
+            "y": 1,
+            "w": 254,
+            "h": 415
+          }
+        },
+        {
+          "filename": "0003.png",
+          "rotated": false,
+          "trimmed": true,
+          "sourceSize": {
+            "w": 900,
+            "h": 900
+          },
+          "spriteSourceSize": {
+            "x": 314,
+            "y": 251,
+            "w": 376,
+            "h": 403
+          },
+          "frame": {
+            "x": 2758,
+            "y": 618,
+            "w": 376,
+            "h": 403
+          }
+        },
+        {
+          "filename": "0009.png",
+          "rotated": false,
+          "trimmed": true,
+          "sourceSize": {
+            "w": 900,
+            "h": 900
+          },
+          "spriteSourceSize": {
+            "x": 315,
+            "y": 249,
+            "w": 301,
+            "h": 408
+          },
+          "frame": {
+            "x": 2830,
+            "y": 1,
+            "w": 301,
+            "h": 408
+          }
+        },
+        {
+          "filename": "0008.png",
+          "rotated": false,
+          "trimmed": true,
+          "sourceSize": {
+            "w": 900,
+            "h": 900
+          },
+          "spriteSourceSize": {
+            "x": 311,
+            "y": 265,
+            "w": 341,
+            "h": 389
+          },
+          "frame": {
+            "x": 3333,
+            "y": 1,
+            "w": 341,
+            "h": 389
+          }
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "app": "https://www.codeandweb.com/texturepacker",
+    "version": "3.0",
+    "smartupdate": "$TexturePacker:SmartUpdate:d5190b74b6f4d8f0898d3a572b7fd0b3:c3ce31e7f97d7afc627f80cc01d55701:c1ad22c6b4af4687b962dc77926d3fce$"
+  }
+}

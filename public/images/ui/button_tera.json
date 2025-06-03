@@ -1,0 +1,579 @@
+{
+  "frames": {
+    "axe": {
+      "frame": {
+        "x": 2,
+        "y": 2,
+        "w": 18,
+        "h": 21
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 1,
+        "y": 1,
+        "w": 18,
+        "h": 21
+      },
+      "sourceSize": {
+        "w": 20,
+        "h": 23
+      }
+    },
+    "a_dark": {
+      "frame": {
+        "x": 2,
+        "y": 25,
+        "w": 18,
+        "h": 21
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 1,
+        "y": 1,
+        "w": 18,
+        "h": 21
+      },
+      "sourceSize": {
+        "w": 20,
+        "h": 23
+      }
+    },
+    "a_explosion": {
+      "frame": {
+        "x": 2,
+        "y": 48,
+        "w": 18,
+        "h": 21
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 1,
+        "y": 1,
+        "w": 18,
+        "h": 21
+      },
+      "sourceSize": {
+        "w": 20,
+        "h": 23
+      }
+    },
+    "a_fire": {
+      "frame": {
+        "x": 2,
+        "y": 71,
+        "w": 18,
+        "h": 21
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 1,
+        "y": 1,
+        "w": 18,
+        "h": 21
+      },
+      "sourceSize": {
+        "w": 20,
+        "h": 23
+      }
+    },
+    "a_frozen": {
+      "frame": {
+        "x": 2,
+        "y": 94,
+        "w": 18,
+        "h": 21
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 1,
+        "y": 1,
+        "w": 18,
+        "h": 21
+      },
+      "sourceSize": {
+        "w": 20,
+        "h": 23
+      }
+    },
+    "a_healing": {
+      "frame": {
+        "x": 22,
+        "y": 94,
+        "w": 18,
+        "h": 21
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 1,
+        "y": 1,
+        "w": 18,
+        "h": 21
+      },
+      "sourceSize": {
+        "w": 20,
+        "h": 23
+      }
+    },
+    "a_ice": {
+      "frame": {
+        "x": 42,
+        "y": 2,
+        "w": 18,
+        "h": 21
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 1,
+        "y": 1,
+        "w": 18,
+        "h": 21
+      },
+      "sourceSize": {
+        "w": 20,
+        "h": 23
+      }
+    },
+    "a_lightning": {
+      "frame": {
+        "x": 22,
+        "y": 2,
+        "w": 18,
+        "h": 21
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 1,
+        "y": 1,
+        "w": 18,
+        "h": 21
+      },
+      "sourceSize": {
+        "w": 20,
+        "h": 23
+      }
+    },
+    "a_neutralize": {
+      "frame": {
+        "x": 22,
+        "y": 25,
+        "w": 18,
+        "h": 21
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 1,
+        "y": 1,
+        "w": 18,
+        "h": 21
+      },
+      "sourceSize": {
+        "w": 20,
+        "h": 23
+      }
+    },
+    "a_poison": {
+      "frame": {
+        "x": 22,
+        "y": 48,
+        "w": 18,
+        "h": 21
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 1,
+        "y": 1,
+        "w": 18,
+        "h": 21
+      },
+      "sourceSize": {
+        "w": 20,
+        "h": 23
+      }
+    },
+    "a_water": {
+      "frame": {
+        "x": 22,
+        "y": 71,
+        "w": 18,
+        "h": 21
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 1,
+        "y": 1,
+        "w": 18,
+        "h": 21
+      },
+      "sourceSize": {
+        "w": 20,
+        "h": 23
+      }
+    },
+    "a_wind": {
+      "frame": {
+        "x": 42,
+        "y": 71,
+        "w": 18,
+        "h": 21
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 1,
+        "y": 1,
+        "w": 18,
+        "h": 21
+      },
+      "sourceSize": {
+        "w": 20,
+        "h": 23
+      }
+    },
+    "boomerang": {
+      "frame": {
+        "x": 42,
+        "y": 94,
+        "w": 18,
+        "h": 21
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 1,
+        "y": 1,
+        "w": 18,
+        "h": 21
+      },
+      "sourceSize": {
+        "w": 20,
+        "h": 23
+      }
+    },
+    "bow": {
+      "frame": {
+        "x": 62,
+        "y": 94,
+        "w": 18,
+        "h": 21
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 1,
+        "y": 1,
+        "w": 18,
+        "h": 21
+      },
+      "sourceSize": {
+        "w": 20,
+        "h": 23
+      }
+    },
+    "cannon": {
+      "frame": {
+        "x": 42,
+        "y": 25,
+        "w": 18,
+        "h": 21
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 1,
+        "y": 1,
+        "w": 18,
+        "h": 21
+      },
+      "sourceSize": {
+        "w": 20,
+        "h": 23
+      }
+    },
+    "chainsaw": {
+      "frame": {
+        "x": 42,
+        "y": 48,
+        "w": 18,
+        "h": 21
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 1,
+        "y": 1,
+        "w": 18,
+        "h": 21
+      },
+      "sourceSize": {
+        "w": 20,
+        "h": 23
+      }
+    },
+    "crossbow": {
+      "frame": {
+        "x": 62,
+        "y": 48,
+        "w": 18,
+        "h": 21
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 1,
+        "y": 1,
+        "w": 18,
+        "h": 21
+      },
+      "sourceSize": {
+        "w": 20,
+        "h": 23
+      }
+    },
+    "dagger": {
+      "frame": {
+        "x": 62,
+        "y": 71,
+        "w": 18,
+        "h": 21
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 1,
+        "y": 1,
+        "w": 18,
+        "h": 21
+      },
+      "sourceSize": {
+        "w": 20,
+        "h": 23
+      }
+    },
+    "fist": {
+      "frame": {
+        "x": 82,
+        "y": 71,
+        "w": 18,
+        "h": 21
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 1,
+        "y": 1,
+        "w": 18,
+        "h": 21
+      },
+      "sourceSize": {
+        "w": 20,
+        "h": 23
+      }
+    },
+    "hammer": {
+      "frame": {
+        "x": 102,
+        "y": 2,
+        "w": 18,
+        "h": 21
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 1,
+        "y": 1,
+        "w": 18,
+        "h": 21
+      },
+      "sourceSize": {
+        "w": 20,
+        "h": 23
+      }
+    },
+    "lance": {
+      "frame": {
+        "x": 82,
+        "y": 2,
+        "w": 18,
+        "h": 21
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 1,
+        "y": 1,
+        "w": 18,
+        "h": 21
+      },
+      "sourceSize": {
+        "w": 20,
+        "h": 23
+      }
+    },
+    "musket": {
+      "frame": {
+        "x": 82,
+        "y": 25,
+        "w": 18,
+        "h": 21
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 1,
+        "y": 1,
+        "w": 18,
+        "h": 21
+      },
+      "sourceSize": {
+        "w": 20,
+        "h": 23
+      }
+    },
+    "scythe": {
+      "frame": {
+        "x": 62,
+        "y": 25,
+        "w": 18,
+        "h": 21
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 1,
+        "y": 1,
+        "w": 18,
+        "h": 21
+      },
+      "sourceSize": {
+        "w": 20,
+        "h": 23
+      }
+    },
+    "shield": {
+      "frame": {
+        "x": 62,
+        "y": 2,
+        "w": 18,
+        "h": 21
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 1,
+        "y": 1,
+        "w": 18,
+        "h": 21
+      },
+      "sourceSize": {
+        "w": 20,
+        "h": 23
+      }
+    },
+    "shotgun": {
+      "frame": {
+        "x": 82,
+        "y": 48,
+        "w": 18,
+        "h": 21
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 1,
+        "y": 1,
+        "w": 18,
+        "h": 21
+      },
+      "sourceSize": {
+        "w": 20,
+        "h": 23
+      }
+    },
+    "sword": {
+      "frame": {
+        "x": 102,
+        "y": 48,
+        "w": 18,
+        "h": 21
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 1,
+        "y": 1,
+        "w": 18,
+        "h": 21
+      },
+      "sourceSize": {
+        "w": 20,
+        "h": 23
+      }
+    },
+    "unknown": {
+      "frame": {
+        "x": 102,
+        "y": 25,
+        "w": 18,
+        "h": 21
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 1,
+        "y": 1,
+        "w": 18,
+        "h": 21
+      },
+      "sourceSize": {
+        "w": 20,
+        "h": 23
+      }
+    },
+    "whip": {
+      "frame": {
+        "x": 102,
+        "y": 71,
+        "w": 18,
+        "h": 21
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 1,
+        "y": 1,
+        "w": 18,
+        "h": 21
+      },
+      "sourceSize": {
+        "w": 20,
+        "h": 23
+      }
+    }
+  },
+ "meta": {
+  "app": "https://www.aseprite.org/",
+  "version": "1.3.7-dev",
+  "image": "button_tera.png",
+  "format": "RGBA8888",
+  "size": { "w": 128, "h": 128 },
+  "scale": "1",
+  "frameTags": [
+  ],
+  "layers": [
+   { "name": "Sprite Sheet", "opacity": 255, "blendMode": "normal" }
+  ],
+  "slices": [
+  ]
+ }
+}

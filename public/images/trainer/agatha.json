@@ -1,0 +1,36 @@
+{
+    "textures": [
+        {
+            "image": "agatha.png",
+            "format": "RGBA8888",
+            "size": {
+                "w": 100,
+                "h": 100
+            },
+            "scale": 1.0,
+            "frames": [
+                {
+                    "filename": "0001.png",
+                    "rotated": false,
+                    "trimmed": false,
+                    "sourceSize": {
+                        "w": 70,
+                        "h": 70
+                    },
+                    "spriteSourceSize": {
+                        "x": 0,
+                        "y": 0,
+                        "w": 70,
+                        "h": 70
+                    },
+                    "frame": {
+                        "x": 2,
+                        "y": 2,
+                        "w": 70,
+                        "h": 70
+                    }
+                }
+            ]
+        }
+    ]
+}
