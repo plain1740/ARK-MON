@@ -1,53 +1,29 @@
-<picture><img src="./public/images/logo.png" width="300" alt="PokéRogue"></picture>
+音乐：
+[【绝命笋干/血狼破军】怪物-YOASOBI😠👊测评up主_游戏热门视频](https://www.bilibili.com/video/BV1YHLhzYEcn/?spm_id_from=333.337.search-card.all.click&vd_source=c72e2fe39c9b67dc144a7cd8f51e1a2a)
 
-PokéRogue is a browser based Pokémon fangame heavily inspired by the roguelite genre. Battle endlessly while gathering stacking items, exploring many different biomes, fighting trainers, bosses, and more!
+[【血狼金曲#3】《大耳朵兔头》主题曲《快乐小狼》_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1LHBcYwELH?spm_id_from=333.788.videopod.sections&vd_source=c72e2fe39c9b67dc144a7cd8f51e1a2a)
 
-# Contributing
 
-## 🛠️ Development
+[【打灰燃曲/血狼破军】不知道AI打灰歌在燃什么_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1FrFhejEcB/?spm_id_from=333.337.search-card.all.click&vd_source=c72e2fe39c9b67dc144a7cd8f51e1a2a)
 
-If you have the motivation and experience with Typescript/Javascript (or are willing to learn) please feel free to fork the repository and make pull requests with contributions. If you don't know what to work on but want to help, reference the below **To-Do** section or the **#feature-vote** channel in the discord.
 
-### 💻 Environment Setup
+[“血狼血狼张开嘴，让我知道我什么杯”_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1u1K5ecEFM/?spm_id_from=333.337.search-card.all.click&vd_source=c72e2fe39c9b67dc144a7cd8f51e1a2a)
 
-#### Prerequisites
 
-- node: 22.14.0
-- npm: [how to install](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm)
+[【神人坚韧之歌】啥杯大冒险_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1WecqeuEj8?spm_id_from=333.788.recommend_more_video.0&vd_source=c72e2fe39c9b67dc144a7cd8f51e1a2a)
 
-#### Running Locally
+[血狼破军：捣蛋兔_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV19JoxY5EcS?spm_id_from=333.788.recommend_more_video.6&vd_source=c72e2fe39c9b67dc144a7cd8f51e1a2a)
 
-1. Clone the repo and in the root directory run `npm install`
-    - *if you run into any errors, reach out in the **#dev-corner** channel in discord*
-2. Run `npm run start:dev` to locally run the project in `localhost:8000`
+结局壁纸：
+https://www.bilibili.com/video/BV1Z7o8YwESk/?spm_id_from=333.337.search-card.all.click
 
-#### Linting
+出演人员：
+血狼破军  逗比寒MillerRHan 绝命笋干 龙哥哥今天又鸽了 魔法Zc目录
 
-We're using Biome as our common linter and formatter. It will run automatically during the pre-commit hook but if you would like to manually run it, use the `npm run biome` script. To view the complete rules, check out the [biome.jsonc](./biome.jsonc) file.
+使用GitHub 项目：
+https://github.com/wo1fsea/PyTexturePacker
+https://github.com/Admiral-Billy/Pokerogue-App
+https://github.com/Aloento/SuperSpineViewer
+https://github.com/isHarryh/Ark-Unpacker
+https://github.com/pagefaultgames/pokerogue
 
-### 📚 Documentation
-
-You can find the auto-generated documentation [here](https://pagefaultgames.github.io/pokerogue/main/index.html).
-For information on enemy AI, check out the [enemy-ai.md](./docs/enemy-ai.md) file.
-For detailed guidelines on documenting your code, refer to the [comments.md](./docs/comments.md) file.
-
-### ❔ FAQ
-
-**How do I test a new _______?**
-
-- In the `src/overrides.ts` file there are overrides for most values you'll need to change for testing
-
-**How do I retrieve the translations?**
-
-- The translations were moved to the [dedicated translation repository](https://github.com/pagefaultgames/pokerogue-locales) and are now applied as a submodule in this project.
-- The command to retrieve the translations is `git submodule update --init --recursive`. If you still struggle to get it working, please reach out to #dev-corner channel in Discord.
-
-## 🪧 To Do
-
-Check out [Github Issues](https://github.com/pagefaultgames/pokerogue/issues) to see how can you help us!
-
-# 📝 Credits
->
-> If this project contains assets you have produced and you do not see your name, **please** reach out, either [here on GitHub](https://github.com/pagefaultgames/pokerogue/issues/new) or via [Discord](https://discord.gg/pokerogue).
-
-Thank you to all the wonderful people that have contributed to the PokéRogue project! You can find the credits [here](./CREDITS.md).
